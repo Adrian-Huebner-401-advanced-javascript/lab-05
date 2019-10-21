@@ -5,7 +5,7 @@
 ### Author: Adrian Huebner
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/Adrian-Huebner-401-advanced-javascript/lab-05/pull/1)
 * [travis](https://www.travis-ci.com/Adrian-Huebner-401-advanced-javascript/lab-05)
 * [front-end](https://adrianhuebner-lab05.herokuapp.com/)
 
